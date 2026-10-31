@@ -84,6 +84,8 @@ Make them in Figma, Illustrator or Procreate, or generate them with AI. Export e
 
 ## 7. Schedule (Nov 1 → Nov 15)
 
+> **Superseded by [`CHECKLIST.md`](CHECKLIST.md).** The head scan was delayed, so the scene is now built on a placeholder head and the scan is swapped in later (deadline Nov 9). The table below is the original plan.
+
 | Date | Blender track | Web / content track |
 |---|---|---|
 | **Sat Nov 1** | Install Blender 4.x. Donut tutorial ep. 1–2 | Install Node 20. Bring the code into this repo and run it locally |
