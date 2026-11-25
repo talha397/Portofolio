@@ -1,0 +1,9 @@
+# NOTICE
+
+The website code is based on sen-3d-resume by Sen Zheng (https://github.com/dayinji/sen-3d-resume),
+used under the MIT License (see LICENSE). None of Sen's personal content (3D model, résumé, work,
+logos, images, links) is included in this repository.
+
+Personal content in this repository is © 2026 Talha Jameel, all rights reserved, and is NOT
+covered by the MIT License: the 3D models and Blender files in `blender/` and `web/public/`,
+the résumé, About text, project write-ups and images, and stickers.

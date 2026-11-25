@@ -1,7 +1,7 @@
 # Portfolio Concept: "Sticker-Bombed Grad" (3D)
 
 **Owner:** Talha Jameel
-**Deadline:** Saturday, November 15, 2026
+**Deadline:** Friday, December 5, 2026 (originally Nov 15)
 **Path:** A. Fork the MIT-licensed code from [dayinji/sen-3d-resume](https://github.com/dayinji/sen-3d-resume) and build every 3D asset myself in Blender.
 
 ---
@@ -84,7 +84,7 @@ Make them in Figma, Illustrator or Procreate, or generate them with AI. Export e
 
 ## 7. Schedule (Nov 1 → Nov 15)
 
-> **Superseded by [`CHECKLIST.md`](CHECKLIST.md).** The head scan was delayed, so the scene is now built on a placeholder head and the scan is swapped in later (deadline Nov 9). The table below is the original plan.
+> **Superseded by [`CHECKLIST.md`](CHECKLIST.md).** Replanned Nov 25: launch is now Fri Dec 5. The scene is built on a placeholder head and the scan gets swapped in later (scan deadline Nov 30). The table below is the original plan.
 
 | Date | Blender track | Web / content track |
 |---|---|---|
